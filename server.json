@@ -4,6 +4,10 @@
   "description": "Decide whether an AI agent's proposed payment should be allowed, by testing the purchase against the task the agent was actually given. Priced per call in USDC over x402.",
   "version": "1.0.0",
   "websiteUrl": "https://api.safe4.ai/docs",
+  "repository": {
+    "url": "https://github.com/Safe4AI/safe4-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
