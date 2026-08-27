@@ -1,7 +1,7 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.safe4/safe4",
-  "description": "Decide whether an AI agent's proposed payment should be allowed, by testing the purchase against the task the agent was actually given. Priced per call in USDC over x402.",
+  "description": "Tests an AI agent's purchase against the task it was given. Paid per call in USDC via x402.",
   "version": "1.0.0",
   "websiteUrl": "https://api.safe4.ai/docs",
   "repository": {
